@@ -7,4 +7,3 @@ wine
 coke
 water
 apple juice
-orange juice
