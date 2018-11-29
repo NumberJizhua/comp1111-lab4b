@@ -1,8 +1,9 @@
-
+chip
 kitcup
 bean
 ice cream
-victory
-severe
-strong
-
+bean2
+ice cream2
+chip2
+kitcup2
+peanut
